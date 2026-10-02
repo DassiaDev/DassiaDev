@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Banner de Dassia" width="100%">
+  <img src="./dassiadev.png" alt="Banner de Dassia" width="100%">
 </p>
 
 ###
