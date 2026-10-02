@@ -9,9 +9,9 @@
 
 <br/>
 
-![Visitas](https://komarev.com/ghpvc/?username=TU-USUARIO&label=Visitas&color=8b5cf6&style=for-the-badge)
-![Seguidores](https://img.shields.io/github/followers/TU-USUARIO?label=Seguidores&style=for-the-badge&color=a855f7&labelColor=2e1065)
-![Estrellas](https://img.shields.io/github/stars/TU-USUARIO?label=Estrellas&style=for-the-badge&color=c084fc&labelColor=2e1065)
+![Visitas](https://komarev.com/ghpvc/?username=DassiaDev&label=Visitas&color=8b5cf6&style=for-the-badge)
+![Seguidores](https://img.shields.io/github/followers/DassiaDev?label=Seguidores&style=for-the-badge&color=a855f7&labelColor=2e1065)
+![Estrellas](https://img.shields.io/github/stars/DassiaDev?label=Estrellas&style=for-the-badge&color=c084fc&labelColor=2e1065)
 
 </div>
 
@@ -21,8 +21,8 @@
 
 ```js
 const yo = {
-  nombre: "TU NOMBRE",
-  rol: "Estudiante & desarrolladora web",
+  nombre: "Dassia",
+  rol: "Estudiante & futura desarrolladora web",
   negocio: "SamTec 🛠️ (reparación de celulares/cómputo y páginas web)",
   enfoque: ["Código limpio", "Diseño atractivo", "Soluciones que funcionan"],
   aprendiendo: ["JavaScript", "Bases de datos", "Análisis de sistemas"],
@@ -67,7 +67,7 @@ const yo = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TU-USUARIO&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trofeos" />
+<img src="https://github-profile-trophy.vercel.app/?username=DassiDev&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trofeos" />
 
 </div>
 
@@ -77,15 +77,10 @@ const yo = {
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-7c3aed?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/TU-USUARIO)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-8b5cf6?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/52TU-NUMERO)
-[![Correo](https://img.shields.io/badge/Correo-a855f7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@ejemplo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
+[![Instagram](https://img.shields.io/badge/Instagram-7c3aed?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dassiamirandax)
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%" alt="footer"/>
-
-*Hecho con y mucho café*
 
 </div>
