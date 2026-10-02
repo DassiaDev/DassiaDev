@@ -1,112 +1,91 @@
-<!-- BANNER HEADER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7928CA,8A2BE2,4A00E0&height=220&section=header&text=Mi%20P%C3%A1gina%20Web%20Personal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Portfolio%20Digital%20%7C%20Minimalista%20%7C%20Est%C3%A9tica%20Violeta&descFontSize=18&descAlignY=58" width="100%" alt="Header Banner" />
-</div>
-
-<!-- BADGES PRINCIPALES -->
-<p align="center">
-  <a href="https://github.com/tu-usuario/tu-repositorio">
-    <img src="https://img.shields.io/badge/Versi%C3%B3n-1.0.0-8A2BE2?style=for-the-badge&logo=semver&logoColor=white" alt="Versión" />
-  </a>
-  <a href="https://tu-sitio-web.com">
-    <img src="https://img.shields.io/badge/Demo-En%20Vivo-7928CA?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo en Vivo" />
-  </a>
-  <a href="LICENSE">
-    <img src="https://img.shields.io/badge/Licencia-MIT-9333EA?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="Licencia" />
-  </a>
-  <a href="https://github.com/tu-usuario/tu-repositorio/stargazers">
-    <img src="https://img.shields.io/github/stars/tu-usuario/tu-repositorio?color=6B21A8&style=for-the-badge&logo=github" alt="Estrellas" />
-  </a>
-</p>
-
-<!-- BOTONES DE ACCIÓN RÁPIDA -->
-<p align="center">
-  <a href="#-vista-previa">🖥️ Vista Previa</a> •
-  <a href="#-características">✨ Características</a> •
-  <a href="#-stack-tecnológico">🛠️ Stack</a> •
-  <a href="#-paleta-de-colores">🎨 Paleta</a> •
-  <a href="#-instalación-rápida">🚀 Instalación</a> •
-  <a href="#-contacto">📬 Contacto</a>
-</p>
-
----
-
-## 🌌 Sobre el Proyecto
-
-Bienvenido/a al repositorio oficial de **mi página web personal**. Este espacio fue diseñado y desarrollado con una marcada estética **Cyber-Violet / Deep Purple**, cuidando cada detalle visual, tipográfico y de interacción para transmitir profesionalismo, modernidad y creatividad.
-
-> [!NOTE]
-> Este portafolio digital reúne mis mejores proyectos, trayectoria profesional, stack tecnológico y vías directas de contacto en una experiencia fluida y responsive.
-
-<br/>
-
-## 🖥️ Vista Previa
-
-<div align="center">
-  <!-- Reemplaza el enlace con una captura de pantalla real o GIF de tu web -->
-  <img src="https://via.placeholder.com/880x480/120924/A855F7?text=Preview+de+mi+Pagina+Web+Personal+%5BMora+Aesthetic%5D" alt="Vista Previa de la Página Web" width="90%" style="border-radius: 12px; border: 2px solid #8A2BE2; box-shadow: 0 0 20px rgba(138, 43, 226, 0.4);" />
-
-  <br/><br/>
-
-  <a href="https://tu-sitio-web.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visitar%20Sitio%20Oficial%20%E2%86%92-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar Sitio Web" />
-  </a>
-</div>
-
-<br/>
-
----
-
-## ✨ Características
-
-- 💜 **Diseño UI/UX Violet Minimalist:** Interfaz cuidada con contrastes oscuros profundos y acentos en tonos morado eléctrico y lila.
-- 📱 **Totalmente Responsive:** Adaptable con precisión a pantallas móviles, tablets y monitores ultrawide.
-- ⚡ **Rendimiento Ultrarrápido:** Carga optimizada, buenas prácticas SEO y accesibilidad (calificación 95+ en Lighthouse).
-- 🌓 **Transiciones & Micro-interacciones:** Animaciones suaves para una navegación interactiva y agradable.
-- 📬 **Formulario de Contacto Funcional:** Conexión directa para consultas y propuestas.
-- 📂 **Sección de Proyectos Dinámica:** Filtros y tarjetas interactivas que destacan código fuente y demostraciones en vivo.
-
-<br/>
-
----
-
-## 🎨 Paleta de Colores
-
-La identidad visual está construida alrededor de una gama armónica de púrpuras, violetas y tonos oscuros de alto contraste:
-
-| Tono | Nombre | Hex | Muestra |
-| :--- | :--- | :--- | :--- |
-| **Deep Velvet** | Fondo Principal | `#0D0814` | ![#0D0814](https://via.placeholder.com/15/0D0814/0D0814.png) `Dark Background` |
-| **Nightfall Purple** | Superficies y Cards | `#181126` | ![#181126](https://via.placeholder.com/15/181126/181126.png) `Surface / Container` |
-| **Electric Purple** | Acento Principal | `#8A2BE2` | ![#8A2BE2](https://via.placeholder.com/15/8A2BE2/8A2BE2.png) `Primary Accent` |
-| **Violet Glow** | Gradientes y Botones | `#7928CA` | ![#7928CA](https://via.placeholder.com/15/7928CA/7928CA.png) `Vibrant Glow` |
-| **Lavender Mist** | Textos y Resaltes | `#E9D5FF` | ![#E9D5FF](https://via.placeholder.com/15/E9D5FF/E9D5FF.png) `Typography / Highlights` |
-
-<br/>
-
----
-
-## 🛠️ Stack Tecnológico
-
+<!-- ======================= HEADER ======================= -->
 <div align="center">
 
-### Frontend & Estilos
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=Hola%2C%20soy%20TU%20NOMBRE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20%E2%80%A2%20Desarrolladora%20Web%20%E2%80%A2%20Fundadora%20de%20SamTec&descAlignY=60&descSize=18" width="100%" alt="header"/>
 
-### Herramientas & Despliegue
-<p>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Creando+p%C3%A1ginas+web+desde+cero+%F0%9F%92%9C;Reparando+celulares+y+computadoras+%F0%9F%94%A7;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%E2%9C%A8;Convirtiendo+ideas+en+c%C3%B3digo+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Visitas](https://komarev.com/ghpvc/?username=TU-USUARIO&label=Visitas&color=8b5cf6&style=for-the-badge)
+![Seguidores](https://img.shields.io/github/followers/TU-USUARIO?label=Seguidores&style=for-the-badge&color=a855f7&labelColor=2e1065)
+![Estrellas](https://img.shields.io/github/stars/TU-USUARIO?label=Estrellas&style=for-the-badge&color=c084fc&labelColor=2e1065)
 
 </div>
 
+---
+
+## Sobre mí
+
+```js
+const yo = {
+  nombre: "TU NOMBRE",
+  rol: "Estudiante & desarrolladora web",
+  negocio: "SamTec 🛠️ (reparación de celulares/cómputo y páginas web)",
+  enfoque: ["Código limpio", "Diseño atractivo", "Soluciones que funcionan"],
+  aprendiendo: ["JavaScript", "Bases de datos", "Análisis de sistemas"],
+  frase: "Si se puede imaginar, se puede programar "
+};
+```
+
+- Estudiante apasionada por la tecnología
+- Emprendiendo mi propio negocio: **SamTec**
+- Me encanta que lo que programo también se vea bonito
+- ¿Hablamos? Escríbeme, siempre estoy dispuesta a colaborar
+
+---
+
+##  Mi stack
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-6d28d9?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-7c3aed?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8b5cf6?style=for-the-badge&logo=javascript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-a855f7?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-581c87?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-9333ea?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+## Estadísticas de GitHub
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&ring_color=8b5cf6" alt="Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&hide_border=true&bg_color=0d0221&title_color=c084fc&text_color=e9d5ff" alt="Lenguajes" />
+
+<img src="https://streak-stats.demolab.com?user=TU-USUARIO&theme=dark&hide_border=true&background=0d0221&ring=a855f7&fire=c084fc&currStreakLabel=e9d5ff&sideLabels=c084fc&currStreakNum=e9d5ff&sideNums=e9d5ff&dates=a78bfa" alt="Racha" />
+
+</div>
+
+---
+
+## Trofeos
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TU-USUARIO&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trofeos" />
+
+</div>
+
+---
+
+## Conectemos
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-7c3aed?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/TU-USUARIO)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-8b5cf6?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/52TU-NUMERO)
+[![Correo](https://img.shields.io/badge/Correo-a855f7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
+
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%" alt="footer"/>
+
+*Hecho con y mucho café*
+
+</div>
