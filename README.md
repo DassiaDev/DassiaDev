@@ -1,86 +1,45 @@
 <!-- ======================= HEADER ======================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=Hola%2C%20soy%20TU%20NOMBRE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20%E2%80%A2%20Desarrolladora%20Web%20%E2%80%A2%20Fundadora%20de%20SamTec&descAlignY=60&descSize=18" width="100%" alt="header"/>
+  <!-- BANNER SUPERIOR CON ONDA EN DEGRADADO MORADO -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7928CA,8A2BE2,4A00E0&height=230&section=header&text=¡Hola%2C%20soy%20Dassia!%20✨&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20%E2%80%A2%20Desarrolladora%20Web%20%E2%80%A2%20Fundadora%20de%20SamTec%20🛠️&descAlignY=60&descSize=18" width="100%" alt="Header Banner" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Creando+p%C3%A1ginas+web+desde+cero+%F0%9F%92%9C;Reparando+celulares+y+computadoras+%F0%9F%94%A7;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%E2%9C%A8;Convirtiendo+ideas+en+c%C3%B3digo+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+  <!-- TEXTO DINÁMICO CON EFECTO DE ESCRITURA -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&multiline=false&width=620&height=45&lines=%E2%9C%A8+Creando+p%C3%A1ginas+web+desde+cero+%F0%9F%92%9C;%F0%9F%9B%A0%EF%B8%8F+Soporte%2C+c%C3%B3mputo+y+hardware+en+SamTec;%F0%9F%9A%80+Convirtiendo+ideas+en+soluciones+reales;%F0%9F%92%A1+Aprendiendo+algo+nuevo+cada+d%C3%ADa" alt="Typing SVG" />
+  </a>
 
-<br/>
+  <br/><br/>
 
-![Visitas](https://komarev.com/ghpvc/?username=DassiaDev&label=Visitas&color=8b5cf6&style=for-the-badge)
-![Seguidores](https://img.shields.io/github/followers/DassiaDev?label=Seguidores&style=for-the-badge&color=a855f7&labelColor=2e1065)
-![Estrellas](https://img.shields.io/github/stars/DassiaDev?label=Estrellas&style=for-the-badge&color=c084fc&labelColor=2e1065)
+  <!-- CONTADORES Y MÉTRICAS -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=DassiaDev&label=VISITAS%20%F0%9F%91%81%EF%B8%8F&color=8A2BE2&style=for-the-badge&labelColor=1e0e38" alt="Visitas" />
+    <a href="https://github.com/DassiaDev?tab=followers">
+      <img src="https://img.shields.io/github/followers/DassiaDev?label=SEGUIDORES%20%E2%9C%A8&style=for-the-badge&color=A855F7&labelColor=1e0e38" alt="Seguidores" />
+    </a>
+    <a href="https://github.com/DassiaDev?tab=repositories">
+      <img src="https://img.shields.io/github/stars/DassiaDev?label=ESTRELLAS%20%E2%AD%90&style=for-the-badge&color=C084FC&labelColor=1e0e38" alt="Estrellas" />
+    </a>
+  </p>
 
 </div>
 
----
+<!-- SEPARADOR ANIMADO CON DEGRADADO -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a478-11eb-972f-1e0ac313bb52.gif" width="100%" />
 
-## Sobre mí
+<br/>
 
-```js
-const yo = {
+<!-- ======================= SOBRE MÍ ======================= -->
+##  Sobre mí
+
+<div align="center">
+
+```javascript
+const dassia = {
   nombre: "Dassia",
-  rol: "Estudiante & futura desarrolladora web",
-  negocio: "SamTec 🛠️ (reparación de celulares/cómputo y páginas web)",
-  enfoque: ["Código limpio", "Diseño atractivo", "Soluciones que funcionan"],
-  aprendiendo: ["JavaScript", "Bases de datos", "Análisis de sistemas"],
-  frase: "Si se puede imaginar, se puede programar "
+  rol: "Estudiante & Futura Desarrolladora Web ",
+  emprendimiento: "SamTec (Reparación de celulares/cómputo y desarrollo web)",
+  enfoque: ["Código limpio", "Diseño atractivo y estético", "Soluciones que funcionan"],
+  aprendiendo: ["JavaScript Moderno", "Bases de Datos", "Análisis de Sistemas"],
+  filosofia: "«Si se puede imaginar, se puede programar» "
 };
-```
-
-- Estudiante apasionada por la tecnología
-- Emprendiendo mi propio negocio: **SamTec**
-- Me encanta que lo que programo también se vea bonito
-- ¿Hablamos? Escríbeme, siempre estoy dispuesta a colaborar
-
----
-
-##  Mi stack
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-6d28d9?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-7c3aed?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-8b5cf6?style=for-the-badge&logo=javascript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-a855f7?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-581c87?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-9333ea?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
-## Estadísticas de GitHub
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&ring_color=8b5cf6" alt="Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&hide_border=true&bg_color=0d0221&title_color=c084fc&text_color=e9d5ff" alt="Lenguajes" />
-
-<img src="https://streak-stats.demolab.com?user=TU-USUARIO&theme=dark&hide_border=true&background=0d0221&ring=a855f7&fire=c084fc&currStreakLabel=e9d5ff&sideLabels=c084fc&currStreakNum=e9d5ff&sideNums=e9d5ff&dates=a78bfa" alt="Racha" />
-
-</div>
-
----
-
-## Trofeos
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DassiDev&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trofeos" />
-
-</div>
-
----
-
-## Conectemos
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-7c3aed?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dassiamirandax)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%" alt="footer"/>
-
-</div>
