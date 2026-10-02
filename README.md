@@ -66,5 +66,17 @@
 ###
 
 <div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor
+
+  <a href="https://www.instagram.com/dassiamirandax" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
+
+  <a href="https://github.com/DassiaDev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" alt="GitHub" />
+  </a>
+
+  <a href="https://dassiadev.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=7B68EE&logoColor=white&style=for-the-badge" height="35" alt="Portfolio" />
+  </a>
+
+</div>
